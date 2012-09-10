@@ -6,6 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:virgilxie/hw0_fxie.git</connection>
 		<developerConnection>scm:git:git@github.com:virgilxie/hw0_fxie.git</developerConnection>
+		<url>scm:git:git://github.com/virgilxie/hw0_fxie.git</url>
 	</scm>
 	<repositories>
 		<repository>
